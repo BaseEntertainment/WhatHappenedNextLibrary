@@ -4,7 +4,7 @@
     "introEndTime": 2.5,
     "choices": 
     {
-      "en" : ["A", "B", "C"],
+      "en" : ["Behind the laptop, a friend dressed up as a monster", "Then there was a cartoon", "A cat jumped out and scared the man even more"],
       "ru" : ["Позади ноутбука друг переоделся в чудовище", "Дальше был мультик", "Выпрыгнула кошка и еще больше напугала человека"]
     },
     "correctChoiceIndex": 1
@@ -14,7 +14,7 @@
     "introEndTime": 10,
     "choices": 
     {
-      "en" : ["A", "B", "C"],
+      "en" : ["The magician hit the driver in the face", "The driver yelled at the magician", "The card disappeared"],
       "ru" : ["Фокусник ударил леща водителю", "Водитель накричал на фокусника", "Карта исчесла"]
     },
     "correctChoiceIndex": 1
@@ -24,28 +24,18 @@
     "introEndTime": 3.4,
     "choices": 
     {
-      "en" : ["A", "B", "C"],
+      "en" : ["The boy began to cry", "The boy ate the grasshopper", "The boy ran away"],
       "ru" : ["Мальчик начал плакать", "Мальчик съел кузнечика", "Мальчик убежал"]
     },
     "correctChoiceIndex": 0
-  },
-  {
-    "name": "Video_3",
-    "introEndTime": 10.4,
-    "choices":
-    {
-      "en" : ["A", "B", "C"],
-      "ru" : ["В ловушку попала сама девушка", "Пранк сработал", "Пострадал невинный человек"]
-    },
-    "correctChoiceIndex": 2
   },
   {
     "name": "Video_4",
     "introEndTime": 2.75,
     "choices":
     {
-      "en" : ["A", "B", "C"],
-      "ru" :  ["Малыш не сдержал эмоции", "Малыш упал", "Родитель уронил камеру"],
+      "en" : ["The kid couldn't hold back his emotions", "The kid fell", "The parent dropped the camera"],
+      "ru" :  ["Малыш не сдержал эмоции", "Малыш упал", "Родитель уронил камеру"]
     },
     "correctChoiceIndex": 0
   },
@@ -54,8 +44,8 @@
     "introEndTime": 6.05,
     "choices":
     {
-      "en" : ["A", "B", "C"],
-      "ru" : ["малыш четко произнес слово", "в кадре появилась кошка", "малыш сказал что-то невнятное"]
+      "en" : ["The baby clearly pronounced the word", "A cat appeared in the frame", "The baby said something unintelligible"],
+      "ru" : ["Малыш четко произнес слово", "В кадре появилась кошка", "Малыш сказал что-то невнятное"]
     },
     "correctChoiceIndex": 2
   }
