@@ -1,52 +1,47 @@
 [
   {
     "name": "Video_6",
-    "introEndTime": 2.5,
+    "pauseFrame": 75,
     "choices": 
     {
-      "en" : ["Behind the laptop, a friend dressed up as a monster", "Then there was a cartoon", "A cat jumped out and scared the man even more"],
-      "ru" : ["Позади ноутбука друг переоделся в чудовище", "Дальше был мультик", "Выпрыгнула кошка и еще больше напугала человека"]
-    },
-    "correctChoiceIndex": 1
+      "en" : ["Then there was a cartoon", "Behind the laptop, a friend dressed up as a monster", "A cat jumped out and scared the man even more"],
+      "ru" : ["Дальше был мультик", "Позади ноутбука друг переоделся в чудовище", "Выпрыгнула кошка и еще больше напугала человека"]
+    } 
   },
   {
     "name": "Video_1",
-    "introEndTime": 10,
+    "pauseFrame": 300,
     "choices": 
     {
-      "en" : ["The magician hit the driver in the face", "The driver yelled at the magician", "The card disappeared"],
-      "ru" : ["Фокусник ударил леща водителю", "Водитель накричал на фокусника", "Карта исчесла"]
-    },
-    "correctChoiceIndex": 1
+      "en" : ["The driver yelled at the magician", "The magician hit the driver in the face", "The card disappeared"],
+      "ru" : ["Водитель накричал на фокусника", "Фокусник ударил леща водителю", "Карта исчесла"]
+    }
   },
   {
     "name": "Video_2",
-    "introEndTime": 3.4,
+    "pauseFrame": 102,
     "choices": 
     {
       "en" : ["The boy began to cry", "The boy ate the grasshopper", "The boy ran away"],
       "ru" : ["Мальчик начал плакать", "Мальчик съел кузнечика", "Мальчик убежал"]
-    },
-    "correctChoiceIndex": 0
+    }
   },
   {
     "name": "Video_4",
-    "introEndTime": 2.75,
+    "pauseFrame": 82,
     "choices":
     {
       "en" : ["The kid couldn't hold back his emotions", "The kid fell", "The parent dropped the camera"],
       "ru" :  ["Малыш не сдержал эмоции", "Малыш упал", "Родитель уронил камеру"]
-    },
-    "correctChoiceIndex": 0
+    }
   },
   {
     "name": "Video_5",
-    "introEndTime": 6.05,
+    "pauseFrame": 182,
     "choices":
     {
-      "en" : ["The baby clearly pronounced the word", "A cat appeared in the frame", "The baby said something unintelligible"],
-      "ru" : ["Малыш четко произнес слово", "В кадре появилась кошка", "Малыш сказал что-то невнятное"]
-    },
-    "correctChoiceIndex": 2
+      "en" : ["The baby said something unintelligible", "The baby clearly pronounced the word", "A cat appeared in the frame"],
+      "ru" : ["Малыш сказал что-то невнятное", "Малыш четко произнес слово", "В кадре появилась кошка"]
+    }
   }
 ]
