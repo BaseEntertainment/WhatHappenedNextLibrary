@@ -1,14 +1,5 @@
 [
   {
-    "name": "Video_1",
-    "pauseFrame": 300,
-    "choices": 
-    {
-      "en" : ["The driver yelled at the magician", "The magician hit the driver in the face", "The card disappeared"],
-      "ru" : ["Водитель накричал на фокусника", "Фокусник ударил леща водителю", "Карта исчесла"]
-    }
-  },
-  {
     "name": "Video_2",
     "pauseFrame": 102,
     "choices": 
@@ -34,5 +25,14 @@
       "en" : ["The baby said something unintelligible", "The baby clearly pronounced the word", "A cat appeared in the frame"],
       "ru" : ["Малыш сказал что-то невнятное", "Малыш четко произнес слово", "В кадре появилась кошка"]
     }
-  }
+  },
+  {
+    "name": "Video_6",
+    "pauseFrame": 75,
+    "choices": 
+    {
+      "en" : ["Then there was a cartoon", "Behind the laptop, a friend dressed up as a monster", "A cat jumped out and scared the man even more"],
+      "ru" : ["Дальше был мультик", "Позади ноутбука друг переоделся в чудовище", "Выпрыгнула кошка и еще больше напугала человека"]
+    } 
+  },
 ]
