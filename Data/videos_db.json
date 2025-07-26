@@ -1,14 +1,5 @@
 [
   {
-    "name": "Video_6",
-    "pauseFrame": 75,
-    "choices": 
-    {
-      "en" : ["Then there was a cartoon", "Behind the laptop, a friend dressed up as a monster", "A cat jumped out and scared the man even more"],
-      "ru" : ["Дальше был мультик", "Позади ноутбука друг переоделся в чудовище", "Выпрыгнула кошка и еще больше напугала человека"]
-    } 
-  },
-  {
     "name": "Video_1",
     "pauseFrame": 300,
     "choices": 
