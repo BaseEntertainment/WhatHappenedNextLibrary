@@ -1,38 +1,92 @@
 [
   {
-    "name": "Video_2",
-    "pauseFrame": 102,
-    "choices": 
-    {
-      "en" : ["The boy began to cry", "The boy ate the grasshopper", "The boy ran away"],
-      "ru" : ["Мальчик начал плакать", "Мальчик съел кузнечика", "Мальчик убежал"]
+    "id": 1,
+    "name": "the_boy_showed_a_good_gesture",
+    "pauseFrame": 150,
+    "choices": {
+      "en": [ "The boy showed a good gesture", "The boy showed a bad gesture", "The boy showed his fists" ],
+      "ru": [ "Мальчик показал хороший жест", "Мальчик показал плохой жест", "Мальчик показал кулачки" ]
     }
   },
   {
-    "name": "Video_4",
-    "pauseFrame": 82,
-    "choices":
-    {
-      "en" : ["The kid couldn't hold back his emotions", "The kid fell", "The parent dropped the camera"],
-      "ru" :  ["Малыш не сдержал эмоции", "Малыш упал", "Родитель уронил камеру"]
+    "id": 2,
+    "name": "she_fell_with_the_bag",
+    "pauseFrame": 68,
+    "choices": {
+      "en": [ "She fell with the bag", "The contents of the bag spilled out", "The bag hit the girl from behind" ],
+      "ru": [ "Она упала вместе с пакетом", "Содержимое пакета высыпалось", "Пакет попал в девушку сзади" ]
     }
   },
   {
-    "name": "Video_5",
-    "pauseFrame": 182,
-    "choices":
-    {
-      "en" : ["The baby said something unintelligible", "The baby clearly pronounced the word", "A cat appeared in the frame"],
-      "ru" : ["Малыш сказал что-то невнятное", "Малыш четко произнес слово", "В кадре появилась кошка"]
+    "id": 3,
+    "name": "the_baby_honked",
+    "pauseFrame": 300,
+    "choices": {
+      "en": [ "The baby honked", "The baby started laughing", "The baby fell" ],
+      "ru": [ "Малыш посигналил", "Малыш начал смеяться", "Малыш упал" ]
     }
   },
   {
-    "name": "Video_6",
-    "pauseFrame": 75,
-    "choices": 
-    {
-      "en" : ["Then there was a cartoon", "Behind the laptop, a friend dressed up as a monster", "A cat jumped out and scared the man even more"],
-      "ru" : ["Дальше был мультик", "Позади ноутбука друг переоделся в чудовище", "Выпрыгнула кошка и еще больше напугала человека"]
-    } 
+    "id": 4,
+    "name": "he_bowled_a_strike",
+    "pauseFrame": 60,
+    "choices": {
+      "en": [ "He bowled a strike", "He hit the ceiling", "He hit the screen" ],
+      "ru": [ "Он выбил страйк", "Он попал в потолок", "Он попал в экран" ]
+    }
   },
+  {
+    "id": 5,
+    "name": "he_started_crying",
+    "pauseFrame": 50,
+    "choices": {
+      "en": [ "He started crying", "He fell", "He jumped over the bridge" ],
+      "ru": [ "Он начал плакать", "Он упал", "Он перепрыгнул через мост" ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "the_cat_meowed",
+    "pauseFrame": 140,
+    "choices": {
+      "en": [ "The cat meowed", "The cat remained silent", "The cat barked" ],
+      "ru": [ "Кошка мяукнула", "Кошка промолчала", "Кошка гавкнула" ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "he_farted",
+    "pauseFrame": 285,
+    "choices": {
+      "en": [ "He farted", "He started screaming", "Something fell from the ceiling" ],
+      "ru": [ "Он пукнул", "Он начал кричать", "Что-то упало с потолка" ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "the_tower_fell_by_itself",
+    "pauseFrame": 195,
+    "choices": {
+      "en": [ "The tower fell by itself", "Someone threw a ball at the tower", "The man finished building the tower" ],
+      "ru": [ "Башня упала сама собой", "Кто-то бросил мяч в башню", "Мужчина достроил башню" ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "the_woman_at_the_computer_fell",
+    "pauseFrame": 85,
+    "choices": {
+      "en": [ "The woman at the computer fell", "The man in blue fell", "A mouse ran by and everyone got scared" ],
+      "ru": [ "Женщина за компьютером упала", "Мужчина в синем упал", "Мышь пробежала мимо, и все испугались" ]
+    }
+  },
+  {
+    "id": 10,
+    "name": "he_hit_himself_on_the_head_with_a_stick",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "He hit himself on the head with a stick", "The stick flew out of his hand and broke the chandelier", "The stick flew out of his hand and knocked down the camera" ],
+      "ru": [ "Он ударил себя палкой по голове", "Палка вылетела из руки и разбила люстру", "Палка вылетела из руки и сбила камеру" ]
+    }
+  }
 ]
