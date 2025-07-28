@@ -67,8 +67,8 @@
     "name": "the_tower_fell_by_itself",
     "pauseFrame": 195,
     "choices": {
-      "en": [ "The tower fell by itself", "Someone threw a ball at the tower", "The man finished building the tower" ],
-      "ru": [ "Башня упала сама собой", "Кто-то бросил мяч в башню", "Мужчина достроил башню" ]
+      "en": [ "The tower fell", "Someone threw a ball at the tower", "The man finished building the tower" ],
+      "ru": [ "Башня упала", "Кто-то бросил мяч в башню", "Мужчина достроил башню" ]
     }
   },
   {
