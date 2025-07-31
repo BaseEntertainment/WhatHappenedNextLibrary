@@ -88,5 +88,95 @@
       "en": [ "He hit himself on the head with a stick", "The stick flew out of his hand and broke the chandelier", "The stick flew out of his hand and knocked down the camera" ],
       "ru": [ "Он ударил себя палкой по голове", "Палка вылетела из руки и разбила люстру", "Палка вылетела из руки и сбила камеру" ]
     }
+  },
+  {
+    "id": 11,
+    "name": "the_boy_began_to_cry",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "The boy began to cry", "The boy ate the grasshopper", "The boy ran away" ],
+      "ru": [ "Мальчик начал плакать", "Мальчик съел кузнечика", "Мальчик убежал" ]
+    }
+  },
+  {
+    "id": 12,
+    "name": "lightning_struck_outside",
+    "pauseFrame": 175,
+    "choices": {
+      "en": [ "Lightning struck outside", "A bat flew in", "A strong wind blew" ],
+      "ru": [ "Снаружи ударила молния", "Залетела летучая мышь", "Подул сильный ветер" ]
+    }
+  },
+  {
+    "id": 13,
+    "name": "a_mouse_ran_out",
+    "pauseFrame": 50,
+    "choices": {
+      "en": [ "A mouse ran out", "The light went out", "The TV fell" ],
+      "ru": [ "Выбежала мышь", "Свет погас", "Телевизор упал" ]
+    }
+  },
+  {
+    "id": 14,
+    "name": "the_dog_started_screaming",
+    "pauseFrame": 47,
+    "choices": {
+      "en": [ "The dog started screaming", "The dog tried to bite its owner", "The dog ran away" ],
+      "ru": [ "Собака начала кричать", "Собака попыталась укусить хозяйку", "Собака убежала" ]
+    }
+  },
+  {
+    "id": 15,
+    "name": "the_dog_copied_the_man",
+    "pauseFrame": 80,
+    "choices": {
+      "en": [ "The dog copied the man", "The dog brought a toy to the man", "The dog sneezed" ],
+      "ru": [ "Собака повторила за мужчиной", "Собака принесла мужчине игрушку", "Собака чихнула" ]
+    }
+  },
+  {
+    "id": 16,
+    "name": "the_parrot_barked",
+    "pauseFrame": 80,
+    "choices": {
+      "en": [ "The parrot barked", "The parrot sat on the dog's head", "The parrot ran away" ],
+      "ru": [ "Попугай залаял", "Попугай сел на голову собаки", "Попугай убежал" ]
+    }
+  },
+  {
+    "id": 17,
+    "name": "the_seal_took_the_mans_place",
+    "pauseFrame": 125,
+    "choices": {
+      "en": [ "The seal took the man's place", "The seal took the man's phone", "The seal started clapping" ],
+      "ru": [ "Тюлень занял место мужчины", "Тюлень забрал телефон мужчины", "Тюлень начал хлопать" ]
+    }
+  },
+  {
+    "id": 18,
+    "name": "her_shoe_came_off",
+    "pauseFrame": 150,
+    "choices": {
+      "en": [ "Her shoe came off", "She kicked the can", "She slipped on the can" ],
+      "ru": [ "У нее слетела туфля", "Она пнула банку", "Она поскользнулась на банке" ]
+    }
+  },
+  {
+    "id": 19,
+    "name": "the_dog_pushed_the_cat",
+    "pauseFrame": 140,
+    "choices": {
+      "en": [ "The dog pushed the cat", "The cat slapped the dog", "The cat climbed on the dog" ],
+      "ru": [ "Собака толкнула кошку", "Кошка ударила собаку", "Кошка забралась на собаку" ]
+    }
+  },
+  {
+    "id": 20,
+    "name": "the_man_jumped_through_the_ring",
+    "pauseFrame": 165,
+    "choices": {
+      "en": [ "The man jumped through the ring", "A dog jumped through instead", "The ring caught fire" ],
+      "ru": [ "Мужчина прыгнул сквозь кольцо", "Вместо него прыгнула собака", "Кольцо загорелось" ]
+    }
   }
 ]
