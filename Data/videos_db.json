@@ -178,5 +178,95 @@
       "en": [ "The man jumped through the ring", "A dog jumped through instead", "The ring caught fire" ],
       "ru": [ "Мужчина прыгнул сквозь кольцо", "Вместо него прыгнула собака", "Кольцо загорелось" ]
     }
+  },
+  {
+    "id": 21,
+    "name": "the_girl_broke_the_chair",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "The girl broke the chair", "The man sat down first", "The girl missed the chair" ],
+      "ru": [ "Девушка сломала стул", "Мужчина сел первым", "Девушка промахнулась мимо стула" ]
+    }
+  },
+  {
+    "id": 22,
+    "name": "there_were_a_bunch_of_cats_inside",
+    "pauseFrame": 265,
+    "choices": {
+      "en": [ "There were a bunch of cats inside", "Smoke came out of the car", "The alarm went off" ],
+      "ru": [ "Внутри была куча кошек", "Из машины пошёл дым", "Сработала сигнализация" ]
+    }
+  },
+  {
+    "id": 23,
+    "name": "she_hit_her_mom_in_the_head",
+    "pauseFrame": 80,
+    "choices": {
+      "en": [ "She hit her mom in the head", "Her club flew off and hit her mom", "She missed the ball a few times" ],
+      "ru": [ "Она попала своей маме по голове", "У неё слетела клюшка и попала в её маму", "Она не попала по мячу несколько раз" ]
+    }
+  },
+  {
+    "id": 24,
+    "name": "he_broke_the_back_window",
+    "pauseFrame": 125,
+    "choices": {
+      "en": [ "He broke the back window", "He landed on his feet", "He dented the trunk" ],
+      "ru": [ "Он разбил заднее стекло", "Он приземлился на ноги", "Он помял багажник" ]
+    }
+  },
+  {
+    "id": 25,
+    "name": "the_bottle_flew_back",
+    "pauseFrame": 125,
+    "choices": {
+      "en": [ "The bottle flew back", "The bottle landed perfectly", "The bottle broke the car window" ],
+      "ru": [ "Бутылка полетела обратно", "Бутылка идеально приземлилась", "Бутылка разбила стекло машины" ]
+    }
+  },
+  {
+    "id": 26,
+    "name": "the_fire_startled_a_child_off_camera",
+    "pauseFrame": 175,
+    "choices": {
+      "en": [ "The fire startled a child off camera", "The fire alarm went off", "The lights suddenly went out" ],
+      "ru": [ "Огонь напугал ребёнка за кадром", "Сработала пожарная сигнализация", "Внезапно погас свет" ]
+    }
+  },
+  {
+    "id": 27,
+    "name": "he_hit_the_camera",
+    "pauseFrame": 85,
+    "choices": {
+      "en": [ "He hit the camera", "He missed", "He hit the hoop" ],
+      "ru": [ "Он попал по камере", "Он промахнулся", "Он попал в кольцо" ]
+    }
+  },
+  {
+    "id": 28,
+    "name": "he_fell_into_the_water",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "He fell into the water", "He stood on the pillar", "He grabbed the edge of the pillar" ],
+      "ru": [ "Он упал в воду", "Он встал на колонну", "Он ухватился за край колонны" ]
+    }
+  },
+  {
+    "id": 29,
+    "name": "the_toast_jumped_out_of_the_toaster",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "The toast jumped out of the toaster", "The cat knocked the toaster off", "The cat opened the microwave" ],
+      "ru": [ "Хлеб вылетел из тостера", "Кошка скинула тостер", "Кошка открыла микроволновку" ]
+    }
+  },
+  {
+    "id": 30,
+    "name": "the_monkey_got_scared",
+    "pauseFrame": 85,
+    "choices": {
+      "en": [ "The monkey got scared", "The monkey stole the phone", "The monkey waved at the camera" ],
+      "ru": [ "Обезьянка испугалась", "Обезьянка украла телефон", "Обезьянка помахала в камеру" ]
+    }
   }
 ]
