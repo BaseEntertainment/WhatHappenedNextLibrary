@@ -28,10 +28,10 @@
   },
   {
     "id": 4,
-    "name": "he_bowled_a_strike",
+    "name": "he_got_a_strike",
     "pauseFrame": 60,
     "choices": {
-      "en": [ "He bowled a strike", "He hit the ceiling", "He hit the screen" ],
+      "en": [ "He got a strike", "He hit the ceiling", "He hit the screen" ],
       "ru": [ "Он выбил страйк", "Он попал в потолок", "Он попал в экран" ]
     }
   },
@@ -267,6 +267,96 @@
     "choices": {
       "en": [ "The monkey got scared", "The monkey stole the phone", "The monkey waved at the camera" ],
       "ru": [ "Обезьянка испугалась", "Обезьянка украла телефон", "Обезьянка помахала в камеру" ]
+    }
+  },
+  {
+    "id": 31,
+    "name": "a_raccoon_flew_out_of_the_tree",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "A raccoon flew out of the tree", "The tree fell on the house behind", "They failed to cut the tree down" ],
+      "ru": [ "Из дерева вылетел енот", "Дерево упало на дом позади", "Им не удалось свалить дерево" ]
+    }
+  },
+  {
+    "id": 32,
+    "name": "he_went_under_the_obstacle",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "He went under the obstacle", "He jumped over the obstacle", "He ran in the opposite direction" ],
+      "ru": [ "Он прошёл под препятствием", "Он перепрыгнул через препятствие", "Он побежал в обратном направлении" ]
+    }
+  },
+  {
+    "id": 33,
+    "name": "he_missed",
+    "pauseFrame": 80,
+    "choices": {
+      "en": [ "He missed", "He fell down", "He got a strike" ],
+      "ru": [ "Он промахнулся", "Он упал", "Он выбил страйк" ]
+    }
+  },
+  {
+    "id": 34,
+    "name": "she_missed_the_ball",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "She missed the ball", "The ball flew into the water", "The club slipped out of her hands" ],
+      "ru": [ "Она промахнулась", "Мяч улетел в воду", "Клюшка выскользнула из её рук" ]
+    }
+  },
+  {
+    "id": 35,
+    "name": "a_coconut_fell_on_the_ladder_and_it_collapsed",
+    "pauseFrame": 300,
+    "choices": {
+      "en": [ "A coconut fell on the ladder, and it collapsed", "A coconut fell on his head", "He dodged a falling coconut" ],
+      "ru": [ "Кокос упал на стремянку, и она сложилась", "Кокос упал ему на голову", "Он увернулся от падающего кокоса" ]
+    }
+  },
+  {
+    "id": 36,
+    "name": "paint_from_the_can_sprayed_on_him",
+    "pauseFrame": 125,
+    "choices": {
+      "en": [ "Paint from the can sprayed on him", "He broke the shovel", "A mouse ran out of the can" ],
+      "ru": [ "На него попала краска из баллончика", "Он сломал лопату", "Из банки выбежала мышка" ]
+    }
+  },
+  {
+    "id": 37,
+    "name": "the_monkey_was_surprised_by_the_magic_trick",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "The monkey was surprised by the magic trick", "The monkey ran away", "The monkey waved at the camera" ],
+      "ru": [ "Обезьяна удивилась фокусу", "Обезьяна убежала", "Обезьяна помахала в камеру" ]
+    }
+  },
+  {
+    "id": 38,
+    "name": "the_cat_missed_the_jump",
+    "pauseFrame": 200,
+    "choices": {
+      "en": [ "The cat missed the jump", "The cat made the jump but flipped over", "The cat was stopped from jumping" ],
+      "ru": [ "Кошка не допрыгнула", "Кошка допрыгнула, но перевернулась", "Кошку остановили от прыжка" ]
+    }
+  },
+  {
+    "id": 39,
+    "name": "one_cat_climbed_up_the_wall_following_the_laser",
+    "pauseFrame": 110,
+    "choices": {
+      "en": [ "One cat climbed up the wall following the laser", "The cats ran off in different directions", "The cats started fighting" ],
+      "ru": [ "Одна кошка залезла на стену, следуя за лазером", "Кошки разбежались в разные стороны", "Кошки начали бороться" ]
+    }
+  },
+  {
+    "id": 40,
+    "name": "the_bucket_hit_someone_on_the_head",
+    "pauseFrame": 55,
+    "choices": {
+      "en": [ "The bucket hit someone on the head", "The bucket bounced slightly", "The bucket stayed still" ],
+      "ru": [ "Ведро попало кому-то по голове", "Ведро слегка подпрыгнуло", "Ведро осталось неподвижным" ]
     }
   }
 ]
