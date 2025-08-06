@@ -358,5 +358,203 @@
       "en": [ "The bucket hit someone on the head", "The bucket bounced slightly", "The bucket stayed still" ],
       "ru": [ "Ведро попало кому-то по голове", "Ведро слегка подпрыгнуло", "Ведро осталось неподвижным" ]
     }
+  },
+  {
+    "id": 41,
+    "name": "the_wind_slammed_the_car_door_into_him",
+    "pauseFrame": 150,
+    "choices": {
+      "en": [ "The wind slammed the car door into him", "He ran toward the helicopter and fell from the wind", "He ran toward the helicopter, but it took off" ],
+      "ru": [ "Ветер хлопнул дверью машины по нему", "Он побежал к вертолёту и упал от ветра", "Он побежал к вертолёту, но тот улетел" ]
+    }
+  },
+  {
+    "id": 42,
+    "name": "the_monkey_ran_past_the_ball",
+    "pauseFrame": 200,
+    "choices": {
+      "en": [ "The monkey ran past the ball", "The monkey kicked the ball", "The monkey grabbed the ball" ],
+      "ru": [ "Обезьяна пробежала мимо мяча", "Обезьяна пнула мяч", "Обезьяна взяла мяч в руки" ]
+    }
+  },
+  {
+    "id": 43,
+    "name": "he_got_scared_of_the_mop",
+    "pauseFrame": 200,
+    "choices": {
+      "en": [ "He got scared of the mop", "He got scared of a bird flying in", "He fell off the chair" ],
+      "ru": [ "Он испугался швабры", "Он испугался залетевшей птицы", "Он упал со стула" ]
+    }
+  },
+  {
+    "id": 44,
+    "name": "she_got_the_cookie",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "She got the cookie", "She broke the plate", "She fell down" ],
+      "ru": [ "Она получила печеньку", "Она разбила тарелку", "Она упала" ]
+    }
+  },
+  {
+    "id": 45,
+    "name": "the_helmet_fell_on_his_head",
+    "pauseFrame": 70,
+    "choices": {
+      "en": [ "The helmet fell on his head", "He fell", "He caught the helmet with his head" ],
+      "ru": [ "Каска упала ему на голову", "Он упал", "Он поймал каску головой" ]
+    }
+  },
+  {
+    "id": 46,
+    "name": "a_robot_vacuum_came_out",
+    "pauseFrame": 160,
+    "choices": {
+      "en": [ "A robot vacuum came out", "A cat came out", "A big spider crawled out" ],
+      "ru": [ "Оттуда вышел робот-пылесос", "Оттуда вышла кошка", "Оттуда вылез большой паук" ]
+    }
+  },
+  {
+    "id": 47,
+    "name": "he_lost_the_bike",
+    "pauseFrame": 90,
+    "choices": {
+      "en": [ "He lost the bike", "He flipped with the bike", "He fell" ],
+      "ru": [ "Он потерял велосипед", "Он сделал кувырок с велосипедом", "Он упал" ]
+    }
+  },
+  {
+    "id": 48,
+    "name": "she_fixed_the_tv",
+    "pauseFrame": 90,
+    "choices": {
+      "en": [ "She fixed the TV", "She reached for the ball and fell", "She dropped the TV" ],
+      "ru": [ "Она починила телевизор", "Она потянулась за мячом и упала", "Она уронила телевизор" ]
+    }
+  },
+  {
+    "id": 49,
+    "name": "the_cat_stood_on_two_legs_and_fell",
+    "pauseFrame": 50,
+    "choices": {
+      "en": [ "The cat stood on two legs and fell", "The cat pushed the brush back", "The cat attacked the brush" ],
+      "ru": [ "Кошка встала на задние лапки и упала", "Кошка отбросила ершик обратно", "Кошка напала на ершик" ]
+    }
+  },
+  {
+    "id": 50,
+    "name": "the_helmet_hit_him_in_the_face",
+    "pauseFrame": 160,
+    "choices": {
+      "en": [ "The helmet hit him in the face", "The helmet landed on the head of the person behind", "He broke the shovel" ],
+      "ru": [ "Каска попала ему по лицу", "Каска приземлилась на голову человека сзади", "Он сломал лопату" ]
+    }
+  },
+  {
+    "id": 51,
+    "name": "he_fell",
+    "pauseFrame": 90,
+    "choices": {
+      "en": [ "He fell", "The tree broke", "He made it to the end" ],
+      "ru": [ "Он упал", "Дерево сломалось", "Он дошёл до конца" ]
+    }
+  },
+  {
+    "id": 52,
+    "name": "she_broke_the_rear_window",
+    "pauseFrame": 60,
+    "choices": {
+      "en": [ "She broke the rear window", "She landed on her feet", "She fell in front of the car" ],
+      "ru": [ "Она разбила заднее окно", "Она приземлилась на ноги", "Она упала перед машиной" ]
+    }
+  },
+  {
+    "id": 53,
+    "name": "he_got_scared",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "He got scared", "He hit his friend with a bag", "He fell" ],
+      "ru": [ "Он испугался", "Он ударил друга пакетом", "Он упал" ]
+    }
+  },
+  {
+    "id": 54,
+    "name": "he_missed_2",
+    "pauseFrame": 200,
+    "choices": {
+      "en": [ "He missed", "Blue confetti burst out of the balloon", "Pink confetti burst out of the balloon" ],
+      "ru": [ "Он промахнулся", "Из шара вылетели синие конфетти", "Из шара вылетели розовые конфетти" ]
+    }
+  },
+  {
+    "id": 55,
+    "name": "the_boy_in_blue_won",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "The boy in blue won", "The boy in red won", "They started dancing" ],
+      "ru": [ "Мальчик в синем победил", "Мальчик в красном победил", "Они начали танцевать" ]
+    }
+  },
+  {
+    "id": 56,
+    "name": "his_face_got_painted",
+    "pauseFrame": 85,
+    "choices": {
+      "en": [ "His face got painted", "He got splashed with water", "He got blasted with air" ],
+      "ru": [ "Ему покрасили лицо", "Ему брызнули водой в лицо", "Ему подули воздухом в лицо" ]
+    }
+  },
+  {
+    "id": 57,
+    "name": "the_monkey_slipped_and_fell",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "The monkey slipped and fell", "The monkey grabbed the whole basket", "The monkey jumped on the girl" ],
+      "ru": [ "Обезьяна поскользнулась и упала", "Обезьяна схватила всю корзинку", "Обезьяна запрыгнула на девушку" ]
+    }
+  },
+  {
+    "id": 58,
+    "name": "he_fell_into_a_trash_bin",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "He fell into a trash bin", "A rat attacked him", "Someone threw a trash bag at him" ],
+      "ru": [ "Он упал в мусорный бак", "На него напала крыса", "В него бросили мусорный пакет" ]
+    }
+  },
+  {
+    "id": 59,
+    "name": "he_fixed_the_tv",
+    "pauseFrame": 250,
+    "choices": {
+      "en": [ "He fixed the TV", "He broke the TV", "He broke the stick" ],
+      "ru": [ "Он починил телевизор", "Он сломал телевизор", "Он сломал палку" ]
+    }
+  },
+  {
+    "id": 60,
+    "name": "he_hit_her_in_the_face",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "He hit her in the face", "He hit the TV", "He hit the window" ],
+      "ru": [ "Он попал ей по лицу", "Он попал по телевизору", "Он попал по окну" ]
+    }
+  },
+  {
+    "id": 61,
+    "name": "the_cat_threw_the_towel_into_the_toilet",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "The cat threw the towel into the toilet", "The cat fell into the toilet", "The cat closed the toilet lid" ],
+      "ru": [ "Кошка бросила полотенце в унитаз", "Кошка упала в унитаз", "Кошка закрыла крышку унитаза" ]
+    }
+  },
+  {
+    "id": 62,
+    "name": "grandpa_kicked_the_boy_into_the_pool",
+    "pauseFrame": 90,
+    "choices": {
+      "en": [ "Grandpa kicked the boy into the pool", "Grandpa fell into the pool", "The boy jumped in and splashed Grandpa" ],
+      "ru": [ "Дедушка пнул мальчика в бассейн", "Дедушка упал в бассейн", "Мальчик прыгнул в воду и облил дедушку" ]
+    }
   }
 ]
