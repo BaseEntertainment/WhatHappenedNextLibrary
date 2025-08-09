@@ -556,5 +556,131 @@
       "en": [ "Grandpa kicked the boy into the pool", "Grandpa fell into the pool", "The boy jumped in and splashed Grandpa" ],
       "ru": [ "Дедушка пнул мальчика в бассейн", "Дедушка упал в бассейн", "Мальчик прыгнул в воду и облил дедушку" ]
     }
+  },
+  {
+    "id": 63,
+    "name": "the_guy_shot_at_the_ceiling",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "The guy shot at the ceiling", "The guy failed to draw the gun", "The policeman slapped the guy" ],
+      "ru": [ "Парень выстрелил в потолок", "Парень не смог вытащить пистолет", "Полицейский ударил парню пощёчину" ]
+    }
+  },
+  {
+    "id": 64,
+    "name": "the_parrot_pretended_to_be_dead",
+    "pauseFrame": 85,
+    "choices": {
+      "en": [ "The parrot pretended to be dead", "The parrot started making gunshot sounds", "The parrot pulled out a second gun" ],
+      "ru": [ "Попугай притворился мёртвым", "Попугай начал издавать звуки выстрелов", "Попугай достал второй пистолет" ]
+    }
+  },
+  {
+    "id": 65,
+    "name": "the_dog_started_jumping",
+    "pauseFrame": 200,
+    "choices": {
+      "en": [ "The dog started jumping", "The dog ran into the next room", "The dog got scared" ],
+      "ru": [ "Собака начала прыгать", "Собака убежала в соседнюю комнату", "Собака испугалась" ]
+    }
+  },
+  {
+    "id": 66,
+    "name": "someone_fell_from_the_ceiling",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "Someone fell from the ceiling", "The chandelier fell to the floor", "The dog jumped onto the bed" ],
+      "ru": [ "С потолка кто-то упал", "Люстра упала на пол", "Собака запрыгнула на кровать" ]
+    }
+  },
+  {
+    "id": 67,
+    "name": "the_boy_fell_to_the_ground",
+    "pauseFrame": 110,
+    "choices": {
+      "en": [ "The boy fell to the ground", "The boy landed on his feet", "Someone caught the boy from below" ],
+      "ru": [ "Мальчик упал на землю", "Мальчик приземлился на ноги", "Кто-то поймал мальчика снизу" ]
+    }
+  },
+  {
+    "id": 68,
+    "name": "the_firework_flew_into_someones_window",
+    "pauseFrame": 200,
+    "choices": {
+      "en": [ "The firework flew into someone's window", "The firework exploded on the spot", "The firework flew into the camera" ],
+      "ru": [ "Фейерверк залетел кому-то в окно", "Фейерверк взорвался на месте", "Фейерверк полетел в камеру" ]
+    }
+  },
+  {
+    "id": 69,
+    "name": "no_one_fell",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "No one fell", "Only the girl fell", "Only the dog fell" ],
+      "ru": [ "Никто не упал", "Упала только девушка", "Упала только собака" ]
+    }
+  },
+  {
+    "id": 70,
+    "name": "the_girl_in_white_jeans_fell",
+    "pauseFrame": 200,
+    "choices": {
+      "en": [ "The girl in white jeans fell", "The girl in blue jeans fell", "Both girls fell" ],
+      "ru": [ "Девушка в белых джинсах упала", "Девушка в синих джинсах упала", "Обе девушки упали" ]
+    }
+  },
+  {
+    "id": 71,
+    "name": "the_dog_wiped_its_paws",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "The dog wiped its paws", "A cat attacked the dog", "The dog slipped" ],
+      "ru": [ "Собака вытерла лапки", "На собаку напала кошка", "Собака поскользнулась" ]
+    }
+  },
+  {
+    "id": 72,
+    "name": "the_man_ran_after_the_dog",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "The man ran after the dog", "The dog sat behind the motorcycle", "A pack of dogs ran out" ],
+      "ru": [ "Мужчина побежал за собакой", "Собака села за мотоцикл", "Выбежала стая собак" ]
+    }
+  },
+  {
+    "id": 73,
+    "name": "the_stingray_suddenly_swam_toward_the_man",
+    "pauseFrame": 150,
+    "choices": {
+      "en": [ "The stingray suddenly swam toward the man", "The stingray spat a stream of water", "The stingray jumped out of the water" ],
+      "ru": [ "Скат резко поплыл в сторону человека", "Скат плюнул струей воды", "Скат выпрыгнул из воды" ]
+    }
+  },
+  {
+    "id": 74,
+    "name": "the_cat_fell_off_the_bed",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "The cat fell off the bed", "The cat bit the hand", "The cat pretended to be dead" ],
+      "ru": [ "Кошка упала с кровати", "Кошка укусила руку", "Кошка притворилась мёртвой" ]
+    }
+  },
+  {
+    "id": 75,
+    "name": "the_hang_glider_crashed_into_a_tree",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "The hang glider crashed into a tree", "The hang glider flew in the opposite direction", "The hang glider caught fire" ],
+      "ru": [ "Дельтаплан врезался в дерево", "Дельтаплан полетел в обратном направлении", "Дельтаплан загорелся" ]
+    }
+  },
+  {
+    "id": 76,
+    "name": "the_dog_started_barking_after_leaving_the_elevator",
+    "pauseFrame": 150,
+    "choices": {
+      "en": [ "The dog started barking after leaving the elevator", "The dog peed itself", "The dog started trembling" ],
+      "ru": [ "Собака начала лаять после выхода из лифта", "Собака описалась", "Собака начала дрожать" ]
+    }
   }
 ]
