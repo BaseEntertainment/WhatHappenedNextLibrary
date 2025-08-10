@@ -694,7 +694,7 @@
   },
   {
     "id": 78,
-    "name": "he_didn’t_catch_any_fish",
+    "name": "he_didnt_catch_any_fish",
     "pauseFrame": 150,
     "choices": {
       "en": [ "He didn’t catch any fish", "A fish slapped him", "He fell into the water" ],
