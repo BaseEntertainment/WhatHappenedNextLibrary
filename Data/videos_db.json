@@ -682,5 +682,122 @@
       "en": [ "The dog started barking after leaving the elevator", "The dog peed itself", "The dog started trembling" ],
       "ru": [ "Собака начала лаять после выхода из лифта", "Собака описалась", "Собака начала дрожать" ]
     }
+  },
+  {
+    "id": 77,
+    "name": "she_got_whipped_cream_in_her_hair",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "She got whipped cream in her hair", "She got whipped cream on the guy next to her", "She got whipped cream in her mouth" ],
+      "ru": [ "Она попала взбитыми сливками себе на волосы", "Она попала взбитыми сливками в парня рядом", "Она попала взбитыми сливками себе в рот" ]
+    }
+  },
+  {
+    "id": 78,
+    "name": "he_didn’t_catch_any_fish",
+    "pauseFrame": 150,
+    "choices": {
+      "en": [ "He didn’t catch any fish", "A fish slapped him", "He fell into the water" ],
+      "ru": [ "Он не поймал ни одной рыбы", "Рыба дала ему пощёчину", "Он упал в воду" ]
+    }
+  },
+  {
+    "id": 79,
+    "name": "the_tv_stuck_in_the_ground",
+    "pauseFrame": 80,
+    "choices": {
+      "en": [ "The TV stuck in the ground", "He couldn’t throw the TV", "He slipped" ],
+      "ru": [ "Телевизор воткнулся в землю", "Он не смог бросить телевизор", "Он поскользнулся" ]
+    }
+  },
+  {
+    "id": 80,
+    "name": "the_giraffe_lifted_the_boy_up",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "The giraffe lifted the boy up", "Another giraffe took the food", "The boy grabbed the giraffe’s neck" ],
+      "ru": [ "Жираф поднял мальчика вверх", "Второй жираф забрал еду", "Мальчик схватился за шею жирафа" ]
+    }
+  },
+  {
+    "id": 81,
+    "name": "the_fire_suppression_system_activated",
+    "pauseFrame": 120,
+    "choices": {
+      "en": [ "The fire suppression system activated", "Someone poured water on them", "Someone sprayed them with a fire extinguisher" ],
+      "ru": [ "Сработала система пожаротушения", "Кто-то облил их водой", "Кто-то облил их из огнетушителя" ]
+    }
+  },
+  {
+    "id": 82,
+    "name": "someone_jumped_into_the_water_with_the_girl",
+    "pauseFrame": 90,
+    "choices": {
+      "en": [ "Someone jumped into the water with the girl", "A dog pushed the girl into the water", "The girl fell into the water on her own" ],
+      "ru": [ "Кто-то прыгнул в воду вместе с девушкой", "Собака столкнула девушку в воду", "Девушка сама упала в воду" ]
+    }
+  },
+  {
+    "id": 83,
+    "name": "she_tried_to_feed_a_baby",
+    "pauseFrame": 110,
+    "choices": {
+      "en": [ "She tried to feed a baby", "She tried to feed a dog", "She tried to feed a horse" ],
+      "ru": [ "Она пыталась накормить малыша", "Она пыталась накормить собаку", "Она пыталась накормить лошадь" ]
+    }
+  },
+  {
+    "id": 84,
+    "name": "the_hatchet_bounced_back",
+    "pauseFrame": 55,
+    "choices": {
+      "en": [ "The hatchet bounced back", "She hit the center", "She broke the target" ],
+      "ru": [ "Топорик отскочил обратно", "Она попала по центру", "Она сломала мишень" ]
+    }
+  },
+  {
+    "id": 85,
+    "name": "he_fell_into_the_water_2",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "He fell into the water", "He threw away his fishing rod", "A flock of seagulls attacked him" ],
+      "ru": [ "Он упал в воду", "Он выбросил удочку", "На него напала стая чаек" ]
+    }
+  },
+  {
+    "id": 86,
+    "name": "the_girl_started_crying",
+    "pauseFrame": 340,
+    "choices": {
+      "en": [ "The girl started crying", "The girl took the cap", "The girl hit the man on the head" ],
+      "ru": [ "Девочка заплакала", "Девочка забрала кепку", "Девочка ударила мужчину по голове" ]
+    }
+  },
+  {
+    "id": 87,
+    "name": "he_managed_to_climb_to_the_top",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "He managed to climb to the top", "He fell", "He broke the lamppost" ],
+      "ru": [ "Ему удалось взобраться наверх", "Он упал", "Он сломал фонарный столб" ]
+    }
+  },
+  {
+    "id": 88,
+    "name": "a_donkey_appeared_in_the_frame",
+    "pauseFrame": 175,
+    "choices": {
+      "en": [ "A donkey appeared in the frame", "The tiger scared the people", "The tiger farted loudly" ],
+      "ru": [ "В кадре появился ослик", "Тигр напугал людей", "Тигр громко пукнул" ]
+    }
+  },
+  {
+    "id": 89,
+    "name": "the_girl_fell_into_the_water",
+    "pauseFrame": 150,
+    "choices": {
+      "en": [ "The girl fell into the water", "The trampoline tore", "The girl jumped into the water" ],
+      "ru": [ "Девушка упала в воду", "Батут порвался", "Девушка прыгнула в воду" ]
+    }
   }
 ]
