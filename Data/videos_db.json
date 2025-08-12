@@ -799,5 +799,95 @@
       "en": [ "The girl fell into the water", "The trampoline tore", "The girl jumped into the water" ],
       "ru": [ "Девушка упала в воду", "Батут порвался", "Девушка прыгнула в воду" ]
     }
+  },
+  {
+    "id": 90,
+    "name": "a_cat_came_out_of_the_machine",
+    "pauseFrame": 145,
+    "choices": {
+      "en": [ "A cat came out of the machine", "He didn’t get this toy", "He broke the glass" ],
+      "ru": [ "Из автомата вышла кошка", "Он не получил эту игрушку", "Он сломал стекло" ]
+    }
+  },
+  {
+    "id": 91,
+    "name": "grandma_started_dancing",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "Grandma started dancing", "Grandma fell", "Grandma kicked another ball" ],
+      "ru": [ "Бабушка начала танцевать", "Бабушка упала", "Бабушка пнула ещё один мяч" ]
+    }
+  },
+  {
+    "id": 92,
+    "name": "she_landed_on_her_face",
+    "pauseFrame": 200,
+    "choices": {
+      "en": [ "She landed on her face", "She landed on her feet", "The board broke" ],
+      "ru": [ "Она приземлилась на лицо", "Она приземлилась на ноги", "Доска сломалась" ]
+    }
+  },
+  {
+    "id": 93,
+    "name": "a_dog_came_out_of_the_tree",
+    "pauseFrame": 125,
+    "choices": {
+      "en": [ "A dog came out of the tree", "The tree didn’t fall", "The tree caught fire" ],
+      "ru": [ "Из дерева вышла собака", "Дерево не упало", "Дерево загорелось" ]
+    }
+  },
+  {
+    "id": 94,
+    "name": "the_dog_scared_everyone",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "The dog scared everyone", "The dog came out of there", "A mouse jumped in there" ],
+      "ru": [ "Собака всех напугала", "Собака вышла оттуда", "Туда запрыгнула мышка" ]
+    }
+  },
+  {
+    "id": 95,
+    "name": "the_parrot_screamed_into_the_lid",
+    "pauseFrame": 125,
+    "choices": {
+      "en": [ "The parrot screamed into the lid", "The parrot took the lid", "The parrot dropped the lid" ],
+      "ru": [ "Попугай покричал в крышку", "Попугай забрал крышку", "Попугай уронил крышку" ]
+    }
+  },
+  {
+    "id": 96,
+    "name": "her_phone_flew_away",
+    "pauseFrame": 60,
+    "choices": {
+      "en": [ "Her phone flew away", "She lost consciousness", "Someone jumped into the neighboring seat" ],
+      "ru": [ "Её телефон улетел", "Она потеряла сознание", "Кто-то запрыгнул на соседнее место" ]
+    }
+  },
+  {
+    "id": 97,
+    "name": "the_elephant_hit_the_man_on_the_butt",
+    "pauseFrame": 75,
+    "choices": {
+      "en": [ "The elephant hit the man on the butt", "The man jumped onto the elephant", "The elephant splashed the man with water" ],
+      "ru": [ "Слоник ударил мужчину по заднице", "Мужчина запрыгнул на слоника", "Слоник облил мужчину водой" ]
+    }
+  },
+  {
+    "id": 98,
+    "name": "the_white_cat_started_waving_its_paws",
+    "pauseFrame": 200,
+    "choices": {
+      "en": [ "The white cat started waving its paws", "The white cat slapped another cat", "The cats started fighting" ],
+      "ru": [ "Белая кошка начала махать лапками", "Белая кошка ударила пощёчину другой кошке", "Кошки начали бороться" ]
+    }
+  },
+  {
+    "id": 99,
+    "name": "the_bag_tore",
+    "pauseFrame": 100,
+    "choices": {
+      "en": [ "The bag tore", "She fell along with the bag", "The bag hit her on the head" ],
+      "ru": [ "Пакет порвался", "Она упала вместе с пакетом", "Пакет попал ей по голове" ]
+    }
   }
 ]
